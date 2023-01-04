@@ -1,0 +1,17 @@
+.navbar-bg {
+    background-image: url('https://imgkub.com/images/2022/07/20/New-Project.png');
+    /* background: #666979; */
+    /* height: 573px;
+    width: 100%; */
+    max-width: 100%;
+}
+
+body {
+    padding: 0;
+    margin: 0;
+}
+
+* {
+    padding: 0;
+    margin: 0;
+}
